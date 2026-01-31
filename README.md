@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/01/Create-Deploy-AI-Email-OS-Automation-SaaS-using-Next.js-Google-Auth-LLM-Gmail-API.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-and-deploy-ai-email-os-automation-saas-using-next.js-google-auth-llm-and-gmail-api)
 
 #### Setup Video
 
